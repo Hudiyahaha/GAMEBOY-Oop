@@ -1,4 +1,5 @@
-🎮#Classic GameBoy Project
+# **Classic GameBoy Project**
+
 Reimagining the magic of the 1989 Nintendo GameBoy through modern C++ and SFML, this project is a complete object-oriented gaming console featuring three iconic games: Snake, Wordle, and Hangman.
 
 🛠 Tech Stack
